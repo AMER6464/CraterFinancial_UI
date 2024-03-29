@@ -18,6 +18,7 @@ private static Properties property;
 			input.close();
 		} catch (Exception e) {
 			e.printStackTrace();
+			//prints exception details
 		}
 		
 	}
